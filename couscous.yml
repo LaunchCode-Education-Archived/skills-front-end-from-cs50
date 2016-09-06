@@ -1,15 +1,15 @@
 template:
     url: https://github.com/LaunchCodeEducation/Template-Light
 # Base URL of the published website
-baseUrl: http://education.launchcode.org/skills-front-end
+baseUrl: http://education.launchcode.org/skills-front-end-from-cs50
 
 
 # Used to link to the GitHub project
 github:
     user: LaunchCodeEducation
-    repo: skills-front-end
+    repo: skills-front-end-from-cs50
 
-title: Summer of Code: Front-End Web Skills Track
+title: LaunchCode: Front-End Web Skill Track
 
 # The left menu bar
 menu:
@@ -24,5 +24,5 @@ menu:
             attributes: target="_blank"
         piazza:
             text: Piazza
-            absoluteUrl: http://piazza.com/wustl/spring2016/cs50x
+            absoluteUrl: http://piazza.com/
             attributes: target="_blank"
